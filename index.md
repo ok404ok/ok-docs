@@ -1,5 +1,5 @@
 # OK Whitepaper (Lite)  
-Version 0.1
+Version 0.2
 
 ---
 
@@ -20,9 +20,9 @@ This document outlines the current structure, intent, and direction of OK.
 
 OK is a social-native token designed to grow alongside its community.
 
-- No hype-driven roadmap
-- No artificial urgency
-- No hidden mechanics
+- No hype-driven roadmap  
+- No artificial urgency  
+- No hidden mechanics  
 
 Every OK exists because someone chose to participate.
 
@@ -35,8 +35,8 @@ Every OK exists because someone chose to participate.
 The OK supply is directly tied to the number of followers.
 
 - Each follower represents **100 OK**
-- This mechanism aligns growth with real interest
-- Empty growth = no advantage
+- Growth reflects real attention, not artificial metrics
+- Empty growth provides no advantage
 
 The community itself defines the scale.
 
@@ -52,7 +52,7 @@ The community itself defines the scale.
 - **Decimals:** 6  
 
 Minting is controlled and intentional.  
-There is no automated inflation.
+There is no automated or hidden inflation.
 
 ---
 
@@ -72,9 +72,9 @@ Details are revealed progressively, not all at once.
 
 ## 6. Governance & Control
 
-- No freeze authority
-- No hidden transfer restrictions
-- Metadata locked for transparency
+- No freeze authority  
+- No hidden transfer restrictions  
+- Metadata locked for transparency  
 
 Trust is established through simplicity, not promises.
 
@@ -82,11 +82,11 @@ Trust is established through simplicity, not promises.
 
 ## 7. Why OK Exists
 
-OK exists to answer one question:
+OK exists to explore one question:
 
-**What happens when people decide to build meaning together around something simple?**
+**What happens when people collectively assign meaning to something simple?**
 
-There is no predefined outcome.
+There is no predefined outcome.  
 There is no guaranteed value.
 
 Only coordination.
@@ -95,32 +95,48 @@ Only coordination.
 
 ## 8. Current Status
 
-- Community forming organically
-- Token infrastructure live
-- Documentation public
-- No liquidity pools yet
-- No public sale yet
+- Community forming organically  
+- Token infrastructure live  
+- Documentation public  
+- No liquidity pools  
+- No public trading  
 
-OK is still early — by design.
+OK is intentionally early.
 
 ---
 
-## 9. Disclaimer
+## 9. Contract Information
 
-OK is an experimental social token.
+**Network:** Solana  
+
+**Contract Address (CA):**  
+Fw6PjcEyQfoyyHPE3T6SKmgmkuNYsFAox8NetGj4gKZq  
+
+**Status:**  
+- Token exists  
+- No liquidity  
+- No trading enabled  
+
+The contract is published for transparency and verification purposes only.
+
+---
+
+## 10. Disclaimer
+
+OK is an experimental, community-driven token.
 
 It is not an investment product.  
 There are no guarantees of value.  
 Participation is voluntary and transparent.
 
-Only engage if you understand the nature of experimental community-driven projects.
+Only engage if you understand the nature of experimental social systems.
 
 ---
 
-## 10. Closing
+## 11. Closing
 
 OK is not trying to be everything.
 
 It is simply asking:
 
-**Are you OK being part of something before it has a name?**
+**Are you OK being part of something before it fully exists?**
